@@ -14,10 +14,10 @@ Quá trình phát triển bộ dữ liệu tham khảo tại paper [Span Detecti
 Bằng 2 cách sau:
   1. Tiến hành thu thập dữ liệu tại các website thương mại điện tử về điện thoại thông minh và gán nhãn theo guideline có sẵn trong paper trên.
   2. Kỹ thuật Easy Data Augmentation (EDA) bao gồm các thao tác sau: 
-    * Chèn ngẫu nhiên (Random Insertion)
-    * Hoán đổi ngẫu nhiên (Random Swap)
-    * Xóa ngẫu nhiên (Random Deletion)
-    * Thay từ đồng nghĩa (Synonym replacement)
+  * Chèn ngẫu nhiên (Random Insertion)
+  * Hoán đổi ngẫu nhiên (Random Swap)
+  * Xóa ngẫu nhiên (Random Deletion)
+  * Thay từ đồng nghĩa (Synonym replacement)
   Tham khảo tại paper [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/abs/1901.11196)trên bộ dữ liệu tiếng Anh và paper [Empirical Study of Text Augmentation on Social Media Text in Vietnamese](https://aclanthology.org/2020.paclic-1.53/) trên bộ dữu liệu tiếng Việt.
   
 ## Mô hình
